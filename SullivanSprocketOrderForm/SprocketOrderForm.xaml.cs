@@ -19,6 +19,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+//TODO: Nicely done  score 100/100
+
 namespace SullivanSprocketOrderForm
 {
     /// <summary>
